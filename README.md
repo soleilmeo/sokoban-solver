@@ -55,7 +55,7 @@ Use Space (not TABs) for empty spaces between objects.
 + `+` - Player on target
 
 An example of a puzzle map can be described below:
-<img align="right" width="433" height="335" src="https://github.com/user-attachments/assets/77042182-ba35-437c-970a-349b51948368">
+<img align="right" width="258" height="200" src="https://github.com/user-attachments/assets/77042182-ba35-437c-970a-349b51948368">
 ```
 ########
 #      #
