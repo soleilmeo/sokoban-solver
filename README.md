@@ -12,7 +12,7 @@ This project uses Python with `pygame` library installed for rendering the solut
 ```
 pip install pygame
 ```
-You can test this project by running `run-example.bat`.
+You can test this project by running `run-example.bat` or run using the syntax defined below.
 
 ## Syntax
 ```
